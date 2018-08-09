@@ -1,0 +1,20 @@
+===================================
+classifier: voting_mlps_hard
+features: ['overlap', 'refuting', 'polarity', 'hand', 'NMF_fit_all_incl_holdout_and_test', 'latent_dirichlet_allocation_incl_holdout_and_test', 'latent_semantic_indexing_gensim_holdout_and_test', 'NMF_fit_all_concat_300_and_test', 'word_ngrams_concat_tf5000_l2_w_holdout_and_test', 'stanford_wordsim_1sent']
+non_bleeding_features: []
+===================================
+===================================
+classifier: voting_mlps_hard
+features: ['overlap', 'refuting', 'polarity', 'hand', 'NMF_fit_all_incl_holdout_and_test', 'latent_dirichlet_allocation_incl_holdout_and_test', 'latent_semantic_indexing_gensim_holdout_and_test', 'NMF_fit_all_concat_300_and_test', 'word_ngrams_concat_tf5000_l2_w_holdout_and_test', 'stanford_wordsim_1sent']
+non_bleeding_features: []
+===================================
+===================================
+classifier: voting_mlps_hard
+features: ['overlap', 'refuting', 'polarity', 'hand', 'NMF_fit_all_incl_holdout_and_test', 'latent_dirichlet_allocation_incl_holdout_and_test', 'latent_semantic_indexing_gensim_holdout_and_test', 'NMF_fit_all_concat_300_and_test', 'word_ngrams_concat_tf5000_l2_w_holdout_and_test', 'stanford_wordsim_1sent']
+non_bleeding_features: []
+===================================
+===================================
+classifier: voting_mlps_hard
+features: ['overlap', 'refuting', 'polarity', 'hand', 'NMF_fit_all_incl_holdout_and_test', 'latent_dirichlet_allocation_incl_holdout_and_test', 'latent_semantic_indexing_gensim_holdout_and_test', 'NMF_fit_all_concat_300_and_test', 'word_ngrams_concat_tf5000_l2_w_holdout_and_test', 'stanford_wordsim_1sent']
+non_bleeding_features: []
+===================================
